@@ -1,0 +1,5 @@
+-name : muon
+-provides muon
+-upstream git.sr.ht/~lattis/muon
+-relurl https://git.sr.ht/~lattis/muon/archive/master.tar.gz
+-checksum sha256:232152daa64cc38b1b4426fafd8b0d14679ac507bea35aced3db031678686893

@@ -1,6 +1,5 @@
--name : bmake
--provides bmake,make
--libprovides libmake.so
+-name : make
+-provides make
 -upstream crufty.net
 -relurl https://www.crufty.net/ftp/pub/sjg/bmake-20260912.tar.gz
 -checksum sha256:b6bd32964cbe451be2838822c9d200b7c7e76a2a5947c03feb71dc6bd72988bd

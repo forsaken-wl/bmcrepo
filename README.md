@@ -1,26 +1,18 @@
-# bmcrepo
+# Rinix package repository
 
-BMX (Burn More Xapps) recipe repository for BMC Linux.
+Rinix: two-time Linux — cuz why try once?
 
-Recipes use the `.bbr` format. Dependencies are resolved as a graph and built in
-dependency-first order. Packages already provided by the Buildroot base system are
-not rebuilt by BMX.
+BMX is now Azure. Packages are managed with:
 
-## Layout
+```sh
+azure add <package>
+azure del <package>
+azure upd
+```
 
-- `core/`: recipes for packages intended for normal BMC systems.
-- `extra/`: optional addons and non-essential packages.
-- `base/`: Buildroot base-system package inventory.
-- `docs/`: recipe and workflow documentation.
+Recipes use `.bbr` metadata in this repository and `.bconf` build definitions in
+`pkgrepo/`. BCONF is a PKGBUILD-like shell format.
 
-## .bbr fields
-
-- `-name`: canonical package name.
-- `-provides`: names or virtual capabilities provided.
-- `-libprovides`: runtime shared-library sonames.
-- `-depends`: runtime dependencies.
-- `-makedepends`: compile-time-only dependencies.
-- `-requiredby`: reverse dependencies when explicitly maintained.
-- `-upstream`: upstream project location.
-- `-relurl`: immutable source release URL.
-- `-checksum`: source checksum (algorithm:hex).
+Rinix prefers non-GNU implementations where practical: BSD make rather than GNU
+make, muon/samurai rather than GNU build tools, and musl/BusyBox in the base
+system.
