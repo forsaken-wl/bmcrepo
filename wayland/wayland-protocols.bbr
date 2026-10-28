@@ -1,0 +1,5 @@
+-name : wayland-protocols
+-provides wayland-protocols
+-upstream freedesktop.org
+-relurl https://gitlab.freedesktop.org/wayland/wayland-protocols/-/releases/1.36/downloads/wayland-protocols-1.36.tar.xz
+-checksum sha256:71fd4de05e79f9a1ca559fac30c1f8365fa10346422f9fe795f74d77b9ef7e92
