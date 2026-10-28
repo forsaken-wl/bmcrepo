@@ -1,0 +1,7 @@
+-name : xwayland
+-provides xwayland
+-depends pixman,libxcb,xorgproto
+-makedepends meson,ninja,pkg-config
+-upstream x.org
+-relurl https://www.x.org/releases/individual/xserver/xwayland-24.1.8.tar.xz
+-checksum sha256:c8908d57c8ed9ceb8293c16ba7ad5af522efaf1ba7e51f9e4cf3c0774d199907

@@ -1,0 +1,5 @@
+-name : busybox
+-provides busybox
+-upstream busybox.net
+-relurl https://busybox.net/downloads/busybox-1.36.1.tar.bz2
+-checksum sha256:b8cc24c9574d809e7279c3be349795c5d5ceb6fdf19ca709f80cde50e47de314

@@ -1,0 +1,5 @@
+-name : linux-firmware
+-provides linux-firmware
+-upstream kernel.org
+-relurl https://cdn.kernel.org/pub/linux/kernel/firmware/linux-firmware-20241017.tar.xz
+-checksum sha256:a26c38ef5a83272f2b98ce8bf8ca1865a852a3deea49ce5a8dd804b914351273

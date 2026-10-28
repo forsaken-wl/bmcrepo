@@ -1,0 +1,7 @@
+-name : scenefx-0.4
+-provides scenefx-0.4
+-depends wlroots-0.19,wayland,pixman,libxkbcommon
+-makedepends meson,ninja,pkg-config
+-upstream github.com/wlrfx/scenefx
+-relurl https://github.com/wlrfx/scenefx/archive/refs/tags/0.4.tar.gz
+-checksum sha256:b307a59160933d5d99824ef26c8ad44cf648f1ed18af26c8dc9343d2b2df0f74
