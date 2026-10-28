@@ -1,0 +1,5 @@
+-name : jq
+-provides jq
+-upstream github.com/jqlang/jq
+-relurl https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-1.7.1.tar.gz
+-checksum sha256:478c9ca129fd2e3443fe27314b455e211e0d8c60bc8ff7df703873deeee580c2

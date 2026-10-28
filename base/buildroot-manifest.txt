@@ -1,0 +1,17 @@
+# Buildroot-owned packages for BMC Linux (x86-64, musl, Linux 6.1.190)
+# BMX must reuse these instead of rebuilding them.
+busybox
+gcc (toolchain)
+musl (libc)
+linux-headers 6.1.190
+ncurses
+zlib
+dbus
+eudev
+expat
+libffi
+glib2
+libnl
+pcre2
+readline
+util-linux

@@ -1,0 +1,6 @@
+-name : wlroots
+-provides wlroots
+-depends wayland,pixman,libxkbcommon
+-upstream gitlab.freedesktop.org/wlroots/wlroots
+-relurl https://gitlab.freedesktop.org/wlroots/wlroots/-/releases/0.17.4/downloads/wlroots-0.17.4.tar.gz
+-checksum sha256:d3190d19d03446955e68a92c77d4c74af78384b0db39a85a0b1582adc80f36d1

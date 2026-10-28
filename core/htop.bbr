@@ -1,0 +1,6 @@
+-name : htop
+-provides htop
+-depends ncurses
+-upstream github.com/htop-dev/htop
+-relurl https://github.com/htop-dev/htop/releases/download/3.3.0/htop-3.3.0.tar.xz
+-checksum sha256:a69acf9b42ff592c4861010fce7d8006805f0d6ef0e8ee647a6ee6e59b743d5c
