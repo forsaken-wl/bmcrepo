@@ -1,0 +1,5 @@
+-name : linux-6.12
+-provides linux-6.12
+-upstream kernel.org
+-relurl https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.12.114.tar.xz
+-checksum sha256:7a8589912bd7a8adb07fed074283652cf482a35facef8954554654f0154b4af3
