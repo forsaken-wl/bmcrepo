@@ -1,0 +1,4 @@
+-name : azure
+-provides azure
+-upstream github.com/forsaken-wl/twotime
+-relurl https://github.com/forsaken-wl/twotime/archive/refs/heads/main.tar.gz
