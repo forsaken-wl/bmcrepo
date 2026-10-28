@@ -1,0 +1,5 @@
+-name : konsole
+-provides konsole
+-upstream kde.org
+-relurl https://download.kde.org/stable/release-service/24.08.0/src/konsole-24.08.0.tar.xz
+-checksum sha256:0095f1afc4e4a4cd36a12a2927e090e62fb0d016d38914bc858af568b7416101

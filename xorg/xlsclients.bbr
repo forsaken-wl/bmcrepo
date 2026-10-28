@@ -1,0 +1,5 @@
+-name : xlsclients
+-provides xlsclients
+-upstream x.org
+-relurl https://www.x.org/releases/individual/app/xlsclients-1.1.6.tar.xz
+-checksum sha256:909810a3fdbd01d84747907f2c0cc32ee732e77afc88cb310abb9d155b2a0807

@@ -1,0 +1,5 @@
+-name : xdriinfo
+-provides xdriinfo
+-upstream x.org
+-relurl https://www.x.org/releases/individual/app/xdriinfo-1.0.8.tar.xz
+-checksum sha256:00463056435b82261c227ad0de1873fd4536101607fbc57540e28e4a0a9b71f7

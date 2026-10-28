@@ -1,0 +1,5 @@
+-name : xkbevd
+-provides xkbevd
+-upstream x.org
+-relurl https://www.x.org/releases/individual/app/xkbevd-1.1.6.tar.xz
+-checksum sha256:d9b401f84cf8568342ff63b1ffc6aecd3877579256d89fe6408645e2741b073e

@@ -1,0 +1,5 @@
+-name : xrandr
+-provides xrandr
+-upstream x.org
+-relurl https://www.x.org/releases/individual/app/xrandr-1.5.4.tar.xz
+-checksum sha256:2cafccb2aaf2491a4068676117a0d4f90ab307724b96fffc54cd1da953779400

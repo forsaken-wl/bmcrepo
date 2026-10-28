@@ -1,0 +1,4 @@
+-name : nwsh
+-provides nwsh
+-upstream netbsd.org
+-relurl https://cdn.netbsd.org/pub/NetBSD/NetBSD-10.0/source/sets/src.tgz

@@ -1,0 +1,5 @@
+-name : xlsatoms
+-provides xlsatoms
+-upstream x.org
+-relurl https://www.x.org/releases/individual/app/xlsatoms-1.1.5.tar.xz
+-checksum sha256:9ac9400328fbeffe15c9d94a90dedb90d09dcaa9d51482efabc55b33a736e317

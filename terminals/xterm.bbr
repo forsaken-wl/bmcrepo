@@ -1,0 +1,5 @@
+-name : xterm
+-provides xterm
+-upstream invisible-island.net
+-relurl https://invisible-mirror.net/archives/xterm/xterm-393.tgz
+-checksum sha256:dc3abf533d66ae3db49e6783b0e1e29f0e4d045b4b3dac797a5e93be2735ec7b

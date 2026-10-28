@@ -1,0 +1,5 @@
+-name : xbacklight
+-provides xbacklight
+-upstream x.org
+-relurl https://www.x.org/releases/individual/app/xbacklight-1.2.4.tar.xz
+-checksum sha256:d4c30b0e6f18c82f387585a737ee3b72d468c927892b08a898c41bc12248e8ee

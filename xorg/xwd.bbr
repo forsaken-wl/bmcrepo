@@ -1,0 +1,5 @@
+-name : xwd
+-provides xwd
+-upstream x.org
+-relurl https://www.x.org/releases/individual/app/xwd-1.0.9.tar.xz
+-checksum sha256:dc121b84947eb4a3d1131bff1e9844cfa2124d95b47b35f9932340fa931fbd3f

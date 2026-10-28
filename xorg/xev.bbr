@@ -1,0 +1,5 @@
+-name : xev
+-provides xev
+-upstream x.org
+-relurl https://www.x.org/releases/individual/app/xev-1.2.7.tar.xz
+-checksum sha256:95167895924de58e34b1013b2b0c8476e90d0888c6c39e7ae9bc35e3a19dba04

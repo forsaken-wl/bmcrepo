@@ -1,0 +1,5 @@
+-name : sessreg
+-provides sessreg
+-upstream x.org
+-relurl https://www.x.org/releases/individual/app/sessreg-1.1.4.tar.xz
+-checksum sha256:4e85b52f4f65a93449753bfb00ceb5d77f3317e24d07dc23147f2f116c785350

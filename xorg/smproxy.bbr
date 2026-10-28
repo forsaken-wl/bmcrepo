@@ -1,0 +1,5 @@
+-name : smproxy
+-provides smproxy
+-upstream x.org
+-relurl https://www.x.org/releases/individual/app/smproxy-1.0.8.tar.xz
+-checksum sha256:fee584eae2ec1ce2d178d72d3b484920271ba68a27935769cefbafbc3a2ff6c8

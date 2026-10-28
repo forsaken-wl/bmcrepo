@@ -1,0 +1,5 @@
+-name : xrefresh
+-provides xrefresh
+-upstream x.org
+-relurl https://www.x.org/releases/individual/app/xrefresh-1.1.1.tar.xz
+-checksum sha256:e947048130f6300e8be86573af8f225b486884fac14fcfe01bd913b41fa73bd3

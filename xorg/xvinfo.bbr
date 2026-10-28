@@ -1,0 +1,5 @@
+-name : xvinfo
+-provides xvinfo
+-upstream x.org
+-relurl https://www.x.org/releases/individual/app/xvinfo-1.1.6.tar.xz
+-checksum sha256:a436945e6a4ab70590358eec2b85d26970f7de480d27e8a25af8fe8421e88ae2

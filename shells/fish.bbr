@@ -1,0 +1,5 @@
+-name : fish
+-provides fish
+-upstream fishshell.com
+-relurl https://github.com/fish-shell/fish-shell/releases/download/3.7.1/fish-3.7.1.tar.xz
+-checksum sha256:614c9f5643cd0799df391395fa6bbc3649427bb83972ce3b114d3bbc1a3b250

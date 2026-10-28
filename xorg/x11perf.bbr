@@ -1,0 +1,5 @@
+-name : x11perf
+-provides x11perf
+-upstream x.org
+-relurl https://www.x.org/releases/individual/app/x11perf-1.6.1.tar.gz
+-checksum sha256:a1874618df0e30ae1a9b2470fb50e77a40c4a6f6ddf87a5c154f7a3b913ac0b3

@@ -1,0 +1,5 @@
+-name : xpr
+-provides xpr
+-upstream x.org
+-relurl https://www.x.org/releases/individual/app/xpr-1.2.1.tar.xz
+-checksum sha256:0a5b947cd5e3990c9fcd04fdf92603241de4a55a29b89d4e8a0e473320b778ba

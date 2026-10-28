@@ -1,0 +1,5 @@
+-name : xcmsdb
+-provides xcmsdb
+-upstream x.org
+-relurl https://www.x.org/releases/individual/app/xcmsdb-1.0.7.tar.xz
+-checksum sha256:5ec4068e488187b05ea92ee1362c96b78a90f19ccc7a1844c5921d70626bbc38

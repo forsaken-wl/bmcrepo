@@ -1,0 +1,5 @@
+-name : xgamma
+-provides xgamma
+-upstream x.org
+-relurl https://www.x.org/releases/individual/app/xgamma-1.0.8.tar.xz
+-checksum sha256:98f9f69e53a11c354a6637ea5c3d7699ceb5c5b1f8ad6f0a14d9931e5a10d079
