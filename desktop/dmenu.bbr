@@ -1,0 +1,7 @@
+-name : dmenu
+-provides dmenu
+-depends libx11,libxft,libxinerama,fontconfig,freetype
+-makedepends pkg-config
+-upstream suckless.org
+-relurl https://dl.suckless.org/tools/dmenu-5.3.tar.gz
+-checksum sha256:1a8f53e6fd2d749839ec870c5e27b3e14da5c3eeacbfcb945d159e1d5433795f

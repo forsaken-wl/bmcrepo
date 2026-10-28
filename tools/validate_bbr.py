@@ -2,7 +2,7 @@
 import pathlib, re, sys
 
 fields = {"name", "provides", "libprovides", "depends", "makedepends",
-          "requiredby", "upstream", "relurl", "checksum"}
+          "requiredby", "upstream", "relurl", "checksum", "prefix"}
 errors = []
 
 for path in sorted(pathlib.Path(".").rglob("*.bbr")):

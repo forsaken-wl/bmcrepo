@@ -1,0 +1,7 @@
+-name : i3status
+-provides i3status
+-depends libconfuse,yajl,libnl,libxcb,libasound
+-makedepends meson,ninja,pkg-config
+-upstream i3wm.org
+-relurl https://i3wm.org/i3status/i3status-2.14.tar.xz
+-checksum sha256:5c4d0273410f9fa3301fd32065deda32e9617fcae8b3cb34793061bf21644924

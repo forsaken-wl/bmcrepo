@@ -1,0 +1,7 @@
+-name : i3lock
+-provides i3lock
+-depends libxcb,cairo,pango,libxkbcommon
+-makedepends meson,ninja,pkg-config
+-upstream i3wm.org
+-relurl https://i3wm.org/i3lock/i3lock-2.15.tar.xz
+-checksum sha256:5711ae5255e82b1dc8d8b4c035c520230921aba7ceee23d66f79765b21a84baa

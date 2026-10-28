@@ -1,0 +1,7 @@
+-name : i3
+-provides i3
+-depends pcre2,libev,yajl,libxcb,xcb-util,xcb-util-keysyms,xcb-util-wm,xcb-util-cursor,xcb-util-xrm,startup-notification,pango,cairo
+-makedepends meson,ninja,pkg-config
+-upstream i3wm.org
+-relurl https://i3wm.org/downloads/i3-4.23.tar.xz
+-checksum sha256:61026a7196c9139d0f3aadd27197e8b320c576e3a450e01d74c1aca484044c46

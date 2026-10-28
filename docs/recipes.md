@@ -13,6 +13,7 @@ Each recipe is a text file with one field per line.
 - `-upstream <project>`: upstream project location.
 - `-relurl <url>`: immutable source release URL.
 - `-checksum <algo:hash>`: source checksum.
+- `-prefix <path>`: installation prefix for source-only packages.
 
 Dependencies are comma-separated. Buildroot-provided packages are listed in
 `base/buildroot-manifest.txt` and must not be rebuilt by BMX.
