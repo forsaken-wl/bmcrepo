@@ -1,0 +1,5 @@
+-name : xdg-user-dirs
+-provides xdg-user-dirs
+-upstream freedesktop.org
+-relurl https://gitlab.freedesktop.org/xdg/xdg-user-dirs/-/archive/0.18/xdg-user-dirs-0.18.tar.gz
+-checksum sha256:26698f494f2276cf856670824b0f854ad7e743a98f164310b94ddb661d77e84c

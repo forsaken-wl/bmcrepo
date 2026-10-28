@@ -1,0 +1,5 @@
+-name : limine
+-provides limine
+-upstream github.com/limine-bootloader/limine
+-relurl https://github.com/limine-bootloader/limine/releases/download/v7.0.0/limine-7.0.0.tar.gz
+-checksum sha256:f6beaf1964aabb4c5cc5b00770966b22a373b272739448df3b4186382feb9d48
