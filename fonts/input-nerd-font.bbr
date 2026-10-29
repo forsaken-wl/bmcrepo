@@ -1,0 +1,5 @@
+-name : input-nerd-font
+-provides input-nerd-font
+-upstream github.com/ryanoasis/nerd-fonts
+-relurl https://github.com/ryanoasis/nerd-fonts/releases/download/v3.5.1/Inconsolata.zip
+-checksum sha256:de7bf85382dad8c239696b7ccddd3e69c5a79b77c6d18c6abe9d6676d28a8764

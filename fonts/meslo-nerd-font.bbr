@@ -1,0 +1,5 @@
+-name : meslo-nerd-font
+-provides meslo-nerd-font
+-upstream github.com/ryanoasis/nerd-fonts
+-relurl https://github.com/ryanoasis/nerd-fonts/releases/download/v3.5.1/Meslo.zip
+-checksum sha256:fb104893ecd8f57e8afacbc0a7086b42657120448d056d6093c728a9afb8e237

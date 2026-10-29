@@ -1,0 +1,4 @@
+-name : lxde
+-provides lxde
+-depends openbox,lxsession,lxpanel,pcmanfm,lxterminal,lxappearance,lxtask,lxrandr,lxinput
+-upstream lxde.org

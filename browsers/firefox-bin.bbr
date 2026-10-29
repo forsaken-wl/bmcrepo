@@ -1,0 +1,5 @@
+-name : firefox-bin
+-provides firefox
+-upstream mozilla.org
+-relurl https://archive.mozilla.org/pub/firefox/releases/140.0esr/linux-x86_64/en-US/firefox-140.0esr.tar.xz
+-checksum sha256:275b6a15b61553469d18cf5ec9d3571e2e82c1e661702a83a695f13b94d80543

@@ -1,0 +1,5 @@
+-name : iosevkaterm-nerd-font
+-provides iosevkaterm-nerd-font
+-upstream github.com/ryanoasis/nerd-fonts
+-relurl https://github.com/ryanoasis/nerd-fonts/releases/download/v3.5.1/IosevkaTerm.zip
+-checksum sha256:b0dfd98968b7c7743080431257bfd082c5ef7dd4d1c674d3ce16bc5520c10cdc

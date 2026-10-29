@@ -1,0 +1,4 @@
+-name : lxqt
+-provides lxqt
+-depends lxqt-session,lxqt-panel,pcmanfm-qt,qterminal,lxqt-config,lxqt-runner,lxqt-policykit,lxqt-powermanagement
+-upstream lxqt-project.org
