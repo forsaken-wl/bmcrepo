@@ -1,4 +1,4 @@
 -name : lxde
 -provides lxde
--depends openbox,lxsession,lxpanel,pcmanfm,lxterminal,lxappearance,lxtask,lxrandr,lxinput
+-depends openbox,lxsession,lxpanel,pcmanfm,lxterminal,lxappearance,lxtask,lxrandr,lxinput,libfm,libfm-extra,libfm-gtk3,libkeybinder3,libwnck3,libxmu,libxres,lxmenu-data,menu-cache,xmms2,xorg-xmodmap,xorg-xrandr,xorg-xset,gpicview,lxappearance-obconf,lxde-common,lxde-icon-theme,lxdm,lxhotkey,lxlauncher,lxmusic
 -upstream lxde.org
